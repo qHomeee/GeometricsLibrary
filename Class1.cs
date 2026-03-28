@@ -111,7 +111,6 @@
         }
     }
 
-    // Класс для трапеции
     public class Trapezoid
     {
         public double BaseA { get; private set; }
