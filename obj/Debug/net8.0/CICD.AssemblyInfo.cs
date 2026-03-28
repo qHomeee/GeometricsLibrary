@@ -11,11 +11,11 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("\r\n\t\t  ZaulinDmitrii\r\n\t  ")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("\r\n\t\t  ZaulinDmitriy\r\n\t  ")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("\r\n\t\t  The NUGet package for work with geometric figure\r\n\t  ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("\r\n\t\t  1.0.0\r\n\t  ")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("\r\n\t\t  1.0.0\r\n\t  +7a490ed2616fa7ffa8e9dc1b184cfed32969ff94")]
 [assembly: System.Reflection.AssemblyProductAttribute("CICD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CICD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
