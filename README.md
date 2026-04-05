@@ -1,8 +1,8 @@
-\# GeometricsLibrary Wiki
+# GeometricsLibrary Wiki
 
 
 
-\## О библиотеке
+## О библиотеке
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-\## Возможности
+## Возможности
 
 
 
@@ -54,95 +54,59 @@
 
 
 
-\## Состав библиотеки
+## Состав библиотеки
 
 
 
-\### Circle
+### Circle
 
 Работа с окружностью: площадь, длина окружности, диаметр.
 
 
 
-\### Square
+### Square
 
 Работа с квадратом: площадь, периметр, диагональ.
 
 
 
-\### Triangle
+### Triangle
 
 Работа с треугольником: площадь, периметр, углы.
 
 
 
-\### Rectangle
+### Rectangle
 
 Работа с прямоугольником: площадь, периметр, диагональ.
 
 
 
-\### Trapezoid
+### Trapezoid
 
 Работа с трапецией: площадь и периметр.
 
-\\## Установка
+## Установка
 
 
 
 При установке Geometrics в тесты нужно использовать команду:
 
-
-
 ```powershell
-
-
-
 dotnet nuget add source --username qHomee - password ghp\\\\\\\_pJ1FE2oEtOmKVvPbD4rtjazU57qfxe2xQpgF --store-password-in-clear-text -name github
-
-
-
 https://nuget.pkg.github.com/qHomeee/index.json 
-
-
 
 ```
 
-
-
-
-
-
-
 Далее пишем еще одну команду:
-
-
-
 ```powershell
-
-
 
 dotnet add package qHomeee. GeometricsLibrary
 
-
-
 ```
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-\\##Использование
+##Использование
 
 
 
@@ -152,17 +116,13 @@ dotnet add package qHomeee. GeometricsLibrary
 
 ```C#
 
-
-
 using Geometrics;
-
-
 
 ```
 
 
 
-\\##Запуск тестов
+##Запуск тестов
 
 
 
